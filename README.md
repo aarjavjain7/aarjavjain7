@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+![My GitHub contribution city](https://raw.githubusercontent.com/aarjavjain7/aarjavjain7/output/contribution-city.svg)
+
 <!--
-**aarjavjain7/aarjavjain7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aarjavjain7/aarjavjain7** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
