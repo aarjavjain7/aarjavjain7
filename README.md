@@ -11,7 +11,7 @@ I enjoy exploring how AI can solve practical problems, from LLM-powered applicat
 - 🤖 Experimenting with local LLM chat applications using Ollama
 - 🧪 Exploring how RAG systems handle incomplete or noisy information in [this abstention study](https://github.com/aarjavjain7/RAG_ABSTENTION_PILOT)
 
-🏙️ My contribution city
+### 🏙️ My Contribution City
 
 ![My GitHub contribution city](https://raw.githubusercontent.com/aarjavjain7/aarjavjain7/output/contribution-city.svg)
 
