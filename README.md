@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hey there, I’m Aarjav (aka @aarjavjain7)
 
 ![My GitHub contribution city](https://raw.githubusercontent.com/aarjavjain7/aarjavjain7/output/contribution-city.svg)
 
